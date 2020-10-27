@@ -36,7 +36,11 @@ library(car, quietly = TRUE)
 ```{r}
 
 # read the data 
+<<<<<<< HEAD
 vehicles <- read_csv ("carfule.csv")
+=======
+vehicles <- read_csv ("vehicles.csv")
+>>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
 #str(vehicles)
 ```
 
