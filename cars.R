@@ -17,7 +17,7 @@ library(rstanarm)
 
 # load the data
 
-cars <- read_csv("car_fual.csv")
+cars <- read_csv("carfuel.csv")
 
 # explore
 
@@ -27,11 +27,11 @@ summary(cars$on_highway)
 # SPLOM (Scatter plot matrix) but with proper data types:
 cars %>%
 
-    cars <- read_csv("car_fual.csv")
+    cars <- read_csv("carfuel.csv")
 
 # explore
 glimpse(cars)
-summary(cars$fuel_h)
+summary(cars$on_highway)
 
 # SPLOM (Scatter plot matrix) but with proper data types:
 cars %>%
@@ -43,8 +43,8 @@ ggplot()
 # Analysis on city v
 summary(cars$on_city)
 #qplot(on_city, data=cars, geom="histogram", bins=30)
-summary(cars$fuel_c)
-#qplot(fuel_c, data=cars, geom="histogram", bins=30)
+summary(cars$on_city)
+#qplot(on_city, data=cars, geom="histogram", bins=30)
 ggplot()
 
 
@@ -98,15 +98,15 @@ table(cars$size)
 ggplot()
 
 # engine in highway
-ggplot(cars, aes(engine, fuel_h)) +
+ggplot(cars, aes(engine, on_highway)) +
   geom_point(color = "#cb181d", alpha = 0.4, shape = 16)
 
 # by size
-ggplot(cars, aes(engine, fuel_h, color = size)) +
+ggplot(cars, aes(engine, on_highway, color = size)) +
   geom_point()
 
 # By plot:
-ggplot(cars, aes(engine, fuel_h)) +
+ggplot(cars, aes(engine, on_highway)) +
   geom_point() +
   facet_wrap(~ size, nrow = 2)
 
@@ -135,13 +135,13 @@ ggplot(cars, aes(engine, on_highway)) +
 =======
 # Type of drive
 ggplot(data = cars) +
-  geom_smooth(mapping = aes(x = engine, y = fuel_h, linetype = , color=drive))
+  geom_smooth(mapping = aes(x = engine, y = on_highway, linetype = , color=drive))
 
 #Analysis of kg/l compared to engine
-plot(fuel_h ~ engine, data = cars, col = "blue", pch = 20, cex = 1.5)
+plot(on_highway ~ engine, data = cars, col = "blue", pch = 20, cex = 1.5)
 
 #  engine in highway km
-ggplot(cars, aes(engine, fuel_h)) +
+ggplot(cars, aes(engine, on_highway)) +
   geom_point(alpha = 0.3) +
   geom_smooth()
 
@@ -152,7 +152,7 @@ ggplot(data = cars) +
   facet_grid(size ~ cylinders)
 
 ggplot(data = cars) +
-  geom_point(mapping = aes(x = engine, y = fuel_h, color=drive)) +
+  geom_point(mapping = aes(x = engine, y = on_highway, color=drive)) +
   facet_grid(drive ~ cylinders)
 
 
@@ -180,15 +180,15 @@ summary(automatic$on_city)
 summary(manual$on_city)
 
 
-hist(cars$fuel_h, main = "Driving on highways",
+hist(cars$on_highway, main = "Driving on highways",
      xlab = ", kg/l")
 
 #kg/l in city
-hist(cars$fuel_c, main = "Driving on City",
+hist(cars$on_city, main = "Driving on City",
      xlab = "kilograms per liters, kg/l")
 
 #Highway kg/l data
-cars = lm(fuel_h ~ cylinders + year, data = cars)CPCOLS <- c("#1f78b4", "#33a02c", "#e31a1c")
+cars = lm(on_highway ~ cylinders + year, data = cars)CPCOLS <- c("#1f78b4", "#33a02c", "#e31a1c")
 
 library(ggplot2)
 
@@ -198,10 +198,10 @@ ggplot(iris, aes(Sepal.Length, Petal.Length)) +
 coef(cars)
 
 #City kg/l data
-cars = lm(fuel_c ~ cylinders + year, data = cars)
+cars = lm(on_city ~ cylinders + year, data = cars)
 coef(cars)
 
 #summary
-summary(automatic.fuel_c)
-summary(manual.fuel_c)
+summary(automatic.on_city)
+summary(manual.on_city)
 
