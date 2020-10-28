@@ -1,0 +1,448 @@
+﻿num,year,manufacturer,model,cylinders,fuel,transmission,size,on_highway,on_city,engine,Annually
+1,2017,Chevrolet,Bolt,6,Electricity,Automatic,Small Wagons,110,128,,550
+2,2017,Chevrolet,Camaro,8,Premium,Automatic,Sub Cars,20,12,6.2,2800
+3,2017,Chevrolet,Camaro,6,Regular,Automatic,Sub Cars,28,19,3.6,1600
+4,2017,Chevrolet,Camaro,4,Premium,Automatic,Sub Cars,31,22,2,1700
+5,2017,Chevrolet,Camaro,8,Premium,Automatic,Sub Cars,27,17,6.2,2100
+6,2017,Chevrolet,Camaro,8,Premium,Manual,Sub Cars,25,16,6.2,2250
+7,2017,Chevrolet,Camaro,4,Premium,Manual,Sub Cars,30,20,2,1850
+8,2017,Chevrolet,Camaro,6,Regular,Manual,Sub Cars,28,16,3.6,1750
+9,2017,Chevrolet,Camaro,8,Premium,Manual,Sub Cars,20,14,6.2,2650
+10,2017,Chevrolet,City Express Cargo Van,4,Regular,Automatic,2WD,26,24,2,1400
+11,2017,Chevrolet,Colorado2WD,4,Regular,Automatic,Small 2WD,26,20,2.5,1600
+12,2017,Chevrolet,Colorado2WD,4,Diesel,Automatic,Small 2WD,30,22,2.8,1550
+13,2017,Chevrolet,Colorado2WD,6,Regular,Automatic,Small 2WD,25,18,3.6,1750
+14,2017,Chevrolet,Colorado2WD,4,Regular,Manual,Small 2WD,26,19,2.5,1600
+15,2017,Chevrolet,Colorado 4WD,4,Regular,Automatic,Small 4WD,24,19,2.5,1650
+16,2017,Chevrolet,Colorado 4WD,4,Diesel,Automatic,Small 4WD,28,20,2.8,1700
+17,2017,Chevrolet,Colorado 4WD,6,Regular,Automatic,Small 4WD,24,17,3.6,1850
+18,2017,Chevrolet,Colorado Cab Chassis2WD,6,Regular,Automatic,2WD,17,15,3.6,2200
+19,2017,Chevrolet,Corvette,8,Premium,Automatic,2 Seats,26,15,6.2,2250
+20,2017,Chevrolet,Corvette,8,Premium,Automatic,2 Seats,23,13,6.2,2650
+21,2017,Chevrolet,Corvette,8,Premium,Manual,2 Seats,25,16,6.2,2250
+22,2017,Chevrolet,Corvette,8,Premium,Manual,2 Seats,22,15,6.2,2350
+23,2017,Chevrolet,Cruze,4,Regular,Automatic,Compact Cars,40,30,1.4,1050
+24,2017,Chevrolet,Cruze,4,Regular,Manual,Compact Cars,39,28,1.4,1100
+25,2017,Chevrolet,Cruze Hatchback,4,Regular,Automatic,Compact Cars,38,29,1.4,1100
+26,2017,Chevrolet,Cruze Hatchback,4,Regular,Manual,Compact Cars,37,28,1.4,1150
+27,2017,Chevrolet,Cruze Premier,4,Regular,Automatic,Compact Cars,39,29,1.4,1050
+28,2017,Chevrolet,Cruze Premier Hatchback,4,Regular,Automatic,Compact Cars,37,28,1.4,1150
+29,2017,Chevrolet,Equinox AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,20,2.4,1500
+30,2017,Chevrolet,Equinox AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,23,16,3.6,1950
+31,2017,Chevrolet,Equinox AWD,4,Gasoline or E85,Automatic,Small Sport Utility Vehicle 4WD,28,20,2.4,1500
+32,2017,Chevrolet,Equinox FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,31,21,2.4,1400
+33,2017,Chevrolet,Equinox FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,24,17,3.6,1750
+34,2017,Chevrolet,Equinox FWD,4,Gasoline or E85,Automatic,Small Sport Utility Vehicle2WD,31,21,2.4,1400
+35,2017,Chevrolet,Express 25002WD Passenger,8,Regular,Automatic,Vans,16,11,6,2700
+36,2017,Chevrolet,Express 35002WD Passenger,8,Regular,Automatic,Vans,16,11,6,2900
+37,2017,Chevrolet,Impala,4,Regular,Automatic,Large Cars,30,22,2.5,1400
+38,2017,Chevrolet,Impala,6,Regular,Automatic,Large Cars,28,18,3.6,1600
+39,2017,Chevrolet,Impala,6,Gasoline or E85,Automatic,Large Cars,28,19,3.6,1600
+40,2017,Chevrolet,Malibu,4,Regular,Automatic,Midsize Cars,36,27,1.5,1150
+41,2017,Chevrolet,Malibu,4,Premium,Automatic,Midsize Cars,33,22,2,1650
+42,2017,Chevrolet,Malibu Hybrid,4,Regular,Automatic,Midsize Cars,43,49,1.8,750
+43,2017,Chevrolet,Silverado 15 Hybrid2WD,8,Regular,Automatic,Pickup 2WD,24,18,5.3,1750
+44,2017,Chevrolet,Silverado 15 Hybrid 4WD,8,Regular,Automatic,Pickup 4WD,21,16,5.3,1950
+45,2017,Chevrolet,Silverado C152WD,8,Regular,Automatic,Pickup 2WD,23,16,5.3,1850
+46,2017,Chevrolet,Silverado C152WD,6,Gasoline or E85,Automatic,Pickup 2WD,24,18,4.3,1750
+47,2017,Chevrolet,Silverado C152WD,8,Gasoline or E85,Automatic,Pickup 2WD,23,16,5.3,1850
+48,2017,Chevrolet,Silverado C152WD,8,Regular,Automatic,Pickup 2WD,21,15,6.2,2050
+49,2017,Chevrolet,Silverado C152WD,8,Regular,Automatic,Pickup 2WD,22,16,5.3,1950
+50,2017,Chevrolet,Silverado C15 Cab Chassis2WD,8,Regular,Automatic,2WD,20,15,5.3,2050
+51,2017,Chevrolet,Silverado K15 4WD,8,Regular,Automatic,Pickup 4WD,22,16,5.3,1950
+52,2017,Chevrolet,Silverado K15 4WD,8,Gasoline or E85,Automatic,Pickup 4WD,22,16,5.3,1950
+53,2017,Chevrolet,Silverado K15 4WD,6,Gasoline or E85,Automatic,Pickup 4WD,22,17,4.3,1850
+54,2017,Chevrolet,Silverado K15 4WD,8,Regular,Automatic,Pickup 4WD,20,15,6.2,2050
+55,2017,Chevrolet,Silverado K15 4WD,8,Regular,Automatic,Pickup 4WD,20,15,5.3,2050
+56,2017,Chevrolet,Silverado K15 Cab Chassis 4WD,8,Regular,Automatic,4WD,19,15,5.3,2050
+57,2017,Chevrolet,Sonic,4,Regular,Automatic,Compact Cars,34,24,1.8,1250
+58,2017,Chevrolet,Sonic,4,Regular,Automatic,Compact Cars,36,27,1.4,1150
+59,2017,Chevrolet,Sonic,4,Regular,Manual,Compact Cars,33,25,1.8,1250
+60,2017,Chevrolet,Sonic,4,Regular,Manual,Compact Cars,38,28,1.4,1100
+61,2017,Chevrolet,Sonic 5,4,Regular,Automatic,Small Wagons,34,24,1.8,1250
+62,2017,Chevrolet,Sonic 5,4,Regular,Automatic,Small Wagons,36,27,1.4,1150
+63,2017,Chevrolet,Sonic 5,4,Regular,Manual,Small Wagons,33,25,1.8,1250
+64,2017,Chevrolet,Sonic 5,4,Regular,Manual,Small Wagons,38,28,1.4,1100
+65,2017,Chevrolet,Spark,4,Regular,Automatic,Sub Cars,38,30,1.4,1050
+66,2017,Chevrolet,Spark,4,Regular,Manual,Sub Cars,38,29,1.4,1050
+67,2017,Chevrolet,Spark ACTIV,4,Regular,Automatic,Sub Cars,37,30,1.4,1050
+68,2017,Chevrolet,Spark ACTIV,4,Regular,Manual,Sub Cars,37,29,1.4,1100
+69,2017,Chevrolet,SS,8,Premium,Automatic,Large Cars,22,14,6.2,2650
+70,2017,Chevrolet,SS,8,Premium,Manual,Large Cars,22,14,6.2,2500
+71,2017,Chevrolet,Suburban C15002WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+72,2017,Chevrolet,Suburban C15002WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+73,2017,Chevrolet,Suburban K1500 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,15,5.3,1950
+74,2017,Chevrolet,Suburban K1500 4WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,22,15,5.3,1950
+75,2017,Chevrolet,Tahoe C15002WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+76,2017,Chevrolet,Tahoe C15002WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+77,2017,Chevrolet,Tahoe K1500 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,16,5.3,1950
+78,2017,Chevrolet,Tahoe K1500 4WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,22,16,5.3,1950
+79,2017,Chevrolet,Traverse AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,15,3.6,2050
+80,2017,Chevrolet,Traverse FWD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,22,15,3.6,1950
+81,2017,Chevrolet,Trax,4,Regular,Automatic,Small Sport Utility Vehicle2WD,33,25,1.4,1250
+82,2017,Chevrolet,Trax AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,30,24,1.4,1300
+83,2017,Chevrolet,Volt,4,Regular Gas or Electricity,Automatic,Compact Cars,42,43,1.5,850
+84,2017,Ford,C-MAX Energi Plug-In Hybrid,4,Regular Gas and Electricity,Automatic,Midsize Cars,38,41,2,900
+85,2017,Ford,C-MAX Hybrid FWD,4,Regular,Automatic,Large Cars,38,42,2,850
+86,2017,Ford,Edge AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,27,20,2,1500
+87,2017,Ford,Edge AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,24,17,3.5,1850
+88,2017,Ford,Edge AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,24,17,2.7,1750
+89,2017,Ford,Edge FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,29,20,2,1450
+90,2017,Ford,Edge FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,29,21,2,1450
+91,2017,Ford,Edge FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,26,17,3.5,1750
+92,2017,Ford,Escape AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,27,20,2,1500
+93,2017,Ford,Escape AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,22,1.5,1450
+94,2017,Ford,Escape FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,29,21,2.5,1450
+95,2017,Ford,Escape FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,30,23,1.5,1350
+96,2017,Ford,Escape FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,29,22,2,1400
+97,2017,Ford,Escape FWD FFV,4,Gasoline or E85,Automatic,Small Sport Utility Vehicle2WD,29,21,2.5,1450
+98,2017,Ford,Expedition2WD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,21,15,3.5,1950
+99,2017,Ford,Expedition 4WD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,20,15,3.5,2050
+100,2017,Ford,Expedition EL2WD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,20,15,3.5,2050
+101,2017,Ford,Expedition EL 4WD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,19,15,3.5,2200
+102,2017,Ford,Explorer2WD FFV,6,Gasoline or E85,Automatic,Standard Sport Utility Vehicle2WD,24,17,3.5,1750
+103,2017,Ford,Explorer AWD,4,Regular,Automatic,Standard Sport Utility Vehicle 4WD,25,18,2.3,1650
+104,2017,Ford,Explorer AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,23,16,3.5,1850
+105,2017,Ford,Explorer AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,16,3.5,1950
+106,2017,Ford,Explorer AWD FFV,6,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,23,16,3.5,1850
+107,2017,Ford,Explorer FWD,4,Regular,Automatic,Standard Sport Utility Vehicle2WD,27,19,2.3,1600
+108,2017,Ford,Explorer FWD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,24,17,3.5,1750
+109,2017,Ford,F150 2.7L2WD GVWR>6649 LBS,6,Regular,Automatic,Pickup 2WD,24,18,2.7,1650
+110,2017,Ford,F150 2.7L 4WD GVWR>6649 LBS,6,Regular,Automatic,Pickup 4WD,22,18,2.7,1850
+111,2017,Ford,F1502WD BASE PAYLOAD LT TIRE,6,Regular,Automatic,Pickup 2WD,23,18,3.5,1750
+112,2017,Ford,F1502WD BASE PAYLOAD LT TIRE,6,Regular,Automatic,Pickup 2WD,24,19,2.7,1650
+113,2017,Ford,F150 3.5L2WD GVWR>7599 LBS,6,Regular,Automatic,Pickup 2WD,22,17,3.5,1850
+114,2017,Ford,F150 3.5L 4WD GVWR>7599 LBS,6,Regular,Automatic,Pickup 4WD,21,17,3.5,1850
+115,2017,Ford,F150 4WD BASE PAYLOAD LT TIRE,6,Regular,Automatic,Pickup 4WD,22,17,3.5,1850
+116,2017,Ford,F150 4WD BASE PAYLOAD LT TIRE,6,Regular,Automatic,Pickup 4WD,21,17,2.7,1850
+117,2017,Ford,F150 4WD FFV BASE PAYLOAD LT TIRE,8,Gasoline or E85,Automatic,Pickup 4WD,20,15,5,2050
+118,2017,Ford,F150 5.0L2WD FFV GVWR>7599 LBS,8,Gasoline or E85,Automatic,Pickup 2WD,20,14,5,2200
+119,2017,Ford,F150 5.0L 4WD FFV GVWR>7599 LBS,8,Gasoline or E85,Automatic,Pickup 4WD,19,14,5,2200
+120,2017,Ford,F150 Pickup2WD,6,Regular,Automatic,Pickup 2WD,25,18,3.5,1650
+121,2017,Ford,F150 Pickup2WD,6,Regular,Automatic,Pickup 2WD,26,19,2.7,1600
+122,2017,Ford,F150 Pickup2WD FFV,8,Gasoline or E85,Automatic,Pickup 2WD,22,15,5,1950
+123,2017,Ford,F150 Pickup2WD FFV,6,Gasoline or E85,Automatic,Pickup 2WD,24,18,3.5,1750
+124,2017,Ford,F150 Pickup 4WD,6,Regular,Automatic,Pickup 4WD,23,17,3.5,1750
+125,2017,Ford,F150 Pickup 4WD,6,Regular,Automatic,Pickup 4WD,23,18,2.7,1750
+126,2017,Ford,F150 Pickup 4WD FFV,8,Gasoline or E85,Automatic,Pickup 4WD,21,15,5,2050
+127,2017,Ford,F150 Pickup 4WD FFV,6,Gasoline or E85,Automatic,Pickup 4WD,23,17,3.5,1850
+128,2017,Ford,F150 RAPTOR 4WD,6,Regular,Automatic,Pickup 4WD,18,15,3.5,2200
+129,2017,Ford,Fiesta FWD,4,Regular,Automatic,Sub Cars,37,27,1.6,1150
+130,2017,Ford,Fiesta FWD,4,Regular,Manual,Sub Cars,35,27,1.6,1150
+131,2017,Ford,Fiesta SFE FWD,3,Regular,Manual,Sub Cars,41,31,1,1000
+132,2017,Ford,Fiesta ST FWD,4,Regular,Manual,Compact Cars,33,26,1.6,1200
+133,2017,Ford,Flex AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,16,3.5,1950
+134,2017,Ford,Flex AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,21,15,3.5,2050
+135,2017,Ford,Flex FWD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,23,16,3.5,1850
+136,2017,Ford,Focus Electric,,Electricity,Automatic,Compact Cars,96,118,,600
+137,2017,Ford,Focus FWD,4,Regular,Automatic,Compact Cars,36,26,2,1200
+138,2017,Ford,Focus FWD,4,Regular,Automatic,Compact Cars,38,26,2,1150
+139,2017,Ford,Focus FWD,3,Regular,Automatic,Compact Cars,38,27,1,1150
+140,2017,Ford,Focus FWD,4,Regular,Manual,Compact Cars,34,25,2,1250
+141,2017,Ford,Focus FWD,3,Regular,Manual,Compact Cars,40,30,1,1050
+142,2017,Ford,Focus FWD FFV,4,Gasoline or E85,Automatic,Compact Cars,36,26,2,1200
+143,2017,Ford,Focus FWD FFV,4,Gasoline or E85,Automatic,Compact Cars,38,26,2,1150
+144,2017,Ford,Focus FWD FFV,4,Gasoline or E85,Manual,Compact Cars,34,25,2,1250
+145,2017,Ford,Focus RS AWD,4,Premium,Manual,Midsize Cars,25,19,2.3,1900
+146,2017,Ford,Focus ST FWD,4,Regular,Manual,Midsize Cars,30,22,2,1400
+147,2017,Ford,Fusion AWD,4,Regular,Automatic,Midsize Cars,29,20,2,1500
+148,2017,Ford,Fusion AWD,6,Regular,Automatic,Midsize Cars,26,17,2.7,1750
+149,2017,Ford,Fusion Energi Plug-in Hybrid,4,Regular Gas and Electricity,Automatic,Midsize Cars,41,43,2,850
+150,2017,Ford,Fusion FWD,4,Regular,Automatic,Midsize Cars,34,23,1.5,1300
+151,2017,Ford,Fusion FWD,4,Regular,Automatic,Midsize Cars,31,21,2,1400
+152,2017,Ford,Fusion FWD,4,Regular,Automatic,Midsize Cars,32,21,2.5,1400
+153,2017,Ford,Fusion Hybrid FWD,4,Regular,Automatic,Midsize Cars,41,43,2,850
+154,2017,Ford,GT,6,Premium,Automatic,2 Seats,18,11,3.5,3000
+155,2017,Ford,Mustang,4,Regular,Automatic,Sub Cars,30,21,2.3,1450
+156,2017,Ford,Mustang,6,Regular,Automatic,Sub Cars,27,18,3.7,1650
+157,2017,Ford,Mustang,8,Regular,Automatic,Sub Cars,24,15,5,1950
+158,2017,Ford,Mustang,4,Regular,Manual,Sub Cars,30,21,2.3,1450
+159,2017,Ford,Mustang,6,Regular,Manual,Sub Cars,27,18,3.7,1650
+160,2017,Ford,Mustang,8,Regular,Manual,Sub Cars,25,15,5,1950
+161,2017,Ford,Mustang Convertible,4,Regular,Automatic,Sub Cars,28,20,2.3,1500
+162,2017,Ford,Mustang Convertible,8,Regular,Automatic,Sub Cars,23,15,5,1950
+163,2017,Ford,Mustang Convertible,4,Regular,Manual,Sub Cars,27,21,2.3,1500
+164,2017,Ford,Mustang Convertible,8,Regular,Manual,Sub Cars,23,14,5,2050
+165,2017,Ford,Mustang Performance Package,4,Regular,Automatic,Sub Cars,28,20,2.3,1500
+166,2017,Ford,Mustang Performance Package,4,Regular,Manual,Sub Cars,28,21,2.3,1450
+167,2017,Ford,Mustang Performance Package,8,Regular,Manual,Sub Cars,23,14,5,2050
+168,2017,Ford,Shelby GT350 Mustang,8,Premium,Manual,Sub Cars,21,14,5.2,2650
+169,2017,Ford,Taurus AWD,6,Regular,Automatic,Large Cars,24,17,3.5,1850
+170,2017,Ford,Taurus AWD,6,Regular,Automatic,Large Cars,24,16,3.5,1850
+171,2017,Ford,Taurus AWD FFV,6,Gasoline or E85,Automatic,Large Cars,24,17,3.5,1850
+172,2017,Ford,Taurus FWD,4,Regular,Automatic,Large Cars,29,20,2,1500
+173,2017,Ford,Taurus FWD,6,Regular,Automatic,Large Cars,27,18,3.5,1650
+174,2017,Ford,Taurus FWD FFV,6,Gasoline or E85,Automatic,Large Cars,27,18,3.5,1650
+175,2017,Ford,Transit Connect Van2WD,4,Regular,Automatic,2WD,27,20,2.5,1500
+176,2017,Ford,Transit Connect Van FFV,4,Gasoline or E85,Automatic,2WD,27,20,2.5,1500
+177,2017,Ford,Transit Connect Wagon FFV,4,Gasoline or E85,Automatic,2WD,27,19,2.5,1600
+178,2017,Ford,Transit Connect Wagon FWD,4,Regular,Automatic,2WD,27,19,2.5,1600
+179,2017,Ford,Transit Connect Wagon LWB FFV,4,Gasoline or E85,Automatic,2WD,27,19,2.5,1600
+180,2017,Ford,Transit Connect Wagon LWB FWD,4,Regular,Automatic,2WD,27,19,2.5,1600
+181,2017,Ford,Transit T150 Wagon,6,Regular,Automatic,Vans,19,15,3.5,2200
+182,2017,Ford,Transit T150 Wagon FFV,6,Gasoline or E85,Automatic,Vans,18,14,3.7,2200
+183,2017,GMC,Acadia AWD,4,Regular,Automatic,Standard Sport Utility Vehicle 4WD,25,21,2.5,1500
+184,2017,GMC,Acadia AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,25,18,3.6,1750
+185,2017,GMC,Acadia FWD,4,Regular,Automatic,Standard Sport Utility Vehicle2WD,26,21,2.5,1500
+186,2017,GMC,Acadia FWD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,25,18,3.6,1650
+187,2017,GMC,Acadia Limited AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,15,3.6,2050
+188,2017,GMC,Acadia Limited FWD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,22,15,3.6,1950
+189,2017,GMC,Canyon2WD,4,Regular,Automatic,Small 2WD,26,20,2.5,1600
+190,2017,GMC,Canyon2WD,4,Diesel,Automatic,Small 2WD,30,22,2.8,1550
+191,2017,GMC,Canyon2WD,6,Regular,Automatic,Small 2WD,25,18,3.6,1750
+192,2017,GMC,Canyon2WD,4,Regular,Manual,Small 2WD,26,19,2.5,1600
+193,2017,GMC,Canyon 4WD,4,Regular,Automatic,Small 4WD,24,19,2.5,1650
+194,2017,GMC,Canyon 4WD,4,Diesel,Automatic,Small 4WD,28,20,2.8,1700
+195,2017,GMC,Canyon 4WD,6,Regular,Automatic,Small 4WD,24,17,3.6,1850
+196,2017,GMC,Canyon Cab Chassis2WD,6,Regular,Automatic,2WD,17,15,3.6,2200
+197,2017,GMC,Savana 25002WD (Passenger),8,Regular,Automatic,Vans,16,11,6,2700
+198,2017,GMC,Savana 35002WD (Passenger),8,Regular,Automatic,Vans,16,11,6,2900
+199,2017,GMC,Sierra 15 Hybrid2WD,8,Regular,Automatic,Pickup 2WD,24,18,5.3,1750
+200,2017,GMC,Sierra 15 Hybrid 4WD,8,Regular,Automatic,Pickup 4WD,21,16,5.3,1950
+201,2017,GMC,Sierra C152WD,8,Regular,Automatic,Pickup 2WD,23,16,5.3,1850
+202,2017,GMC,Sierra C152WD,6,Gasoline or E85,Automatic,Pickup 2WD,24,18,4.3,1750
+203,2017,GMC,Sierra C152WD,8,Gasoline or E85,Automatic,Pickup 2WD,23,16,5.3,1850
+204,2017,GMC,Sierra C152WD,8,Regular,Automatic,Pickup 2WD,21,15,6.2,2050
+205,2017,GMC,Sierra C152WD,8,Regular,Automatic,Pickup 2WD,22,16,5.3,1950
+206,2017,GMC,Sierra C15 Cab Chassis2WD,8,Regular,Automatic,2WD,20,15,5.3,2050
+207,2017,GMC,Sierra K15 4WD,8,Regular,Automatic,Pickup 4WD,22,16,5.3,1950
+208,2017,GMC,Sierra K15 4WD,8,Gasoline or E85,Automatic,Pickup 4WD,22,16,5.3,1950
+209,2017,GMC,Sierra K15 4WD,6,Gasoline or E85,Automatic,Pickup 4WD,22,17,4.3,1850
+210,2017,GMC,Sierra K15 4WD,8,Regular,Automatic,Pickup 4WD,20,15,6.2,2050
+211,2017,GMC,Sierra K15 4WD,8,Regular,Automatic,Pickup 4WD,20,15,5.3,2050
+212,2017,GMC,Sierra K15 Cab Chassis 4WD,8,Regular,Automatic,4WD,19,15,5.3,2050
+213,2017,GMC,Terrain AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,20,2.4,1500
+214,2017,GMC,Terrain AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,23,16,3.6,1950
+215,2017,GMC,Terrain FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,31,21,2.4,1400
+216,2017,GMC,Terrain FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,24,17,3.6,1750
+217,2017,GMC,Terrain FWD,4,Gasoline or E85,Automatic,Small Sport Utility Vehicle2WD,31,21,2.4,1400
+218,2017,GMC,Yukon C15002WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+219,2017,GMC,Yukon C15002WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+220,2017,GMC,Yukon C15002WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,22,15,6.2,2050
+221,2017,GMC,Yukon C1500 XL2WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+222,2017,GMC,Yukon C1500 XL2WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle2WD,23,16,5.3,1850
+223,2017,GMC,Yukon C1500 XL2WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,22,15,6.2,2050
+224,2017,GMC,Yukon K1500 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,16,5.3,1950
+225,2017,GMC,Yukon K1500 4WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,22,16,5.3,1950
+226,2017,GMC,Yukon K1500 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,20,15,6.2,2050
+227,2017,GMC,Yukon K1500 XL 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,22,15,5.3,1950
+228,2017,GMC,Yukon K1500 XL 4WD,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,22,15,5.3,1950
+229,2017,GMC,Yukon K1500 XL 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,20,14,6.2,2200
+230,2017,Honda,Accord,4,Regular,Automatic,Midsize Cars,34,26,2.4,1200
+231,2017,Honda,Accord,6,Regular,Automatic,Midsize Cars,32,21,3.5,1450
+232,2017,Honda,Accord,4,Regular,Automatic,Midsize Cars,36,27,2.4,1150
+233,2017,Honda,Accord,6,Regular,Automatic,Midsize Cars,33,21,3.5,1400
+234,2017,Honda,Accord,6,Regular,Manual,Midsize Cars,28,18,3.5,1650
+235,2017,Honda,Accord,4,Regular,Manual,Midsize Cars,32,23,2.4,1350
+236,2017,Honda,Accord Hybrid,4,Regular,Automatic,Midsize Cars,47,49,2,750
+237,2017,Honda,Civic 2Dr,4,Regular,Automatic,Compact Cars,39,30,2,1050
+238,2017,Honda,Civic 2Dr,4,Regular,Automatic,Compact Cars,40,31,1.5,1000
+239,2017,Honda,Civic 2Dr,4,Regular,Manual,Compact Cars,39,28,2,1100
+240,2017,Honda,Civic 2Dr,4,Regular,Manual,Compact Cars,41,30,1.5,1000
+241,2017,Honda,Civic 4Dr,4,Regular,Automatic,Midsize Cars,40,31,2,1050
+242,2017,Honda,Civic 4Dr,4,Regular,Automatic,Midsize Cars,42,32,1.5,950
+243,2017,Honda,Civic 4Dr,4,Regular,Manual,Midsize Cars,40,28,2,1100
+244,2017,Honda,Civic 4Dr,4,Regular,Manual,Midsize Cars,42,31,1.5,1000
+245,2017,Honda,Civic 5Dr,4,Regular,Automatic,Large Cars,40,31,1.5,1050
+246,2017,Honda,Civic 5Dr,4,Regular,Manual,Large Cars,39,30,1.5,1050
+247,2017,Honda,Civic 5Dr Sport,4,Premium,Automatic,Large Cars,36,30,1.5,1300
+248,2017,Honda,Civic 5Dr Sport,4,Premium,Manual,Large Cars,39,30,1.5,1300
+249,2017,Honda,CR-V AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,31,25,2.4,1300
+250,2017,Honda,CR-V AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,33,27,1.5,1200
+251,2017,Honda,CR-V FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,32,26,2.4,1250
+252,2017,Honda,CR-V FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,34,28,1.5,1150
+253,2017,Honda,Fit,4,Regular,Automatic,Small Wagons,37,32,1.5,1050
+254,2017,Honda,Fit,4,Regular,Automatic,Small Wagons,40,33,1.5,950
+255,2017,Honda,Fit,4,Regular,Manual,Small Wagons,36,29,1.5,1100
+256,2017,Honda,HR-V AWD,4,Regular,Automatic,Small Wagons,31,27,1.8,1200
+257,2017,Honda,HR-V AWD,4,Regular,Automatic,Small Wagons,31,27,1.8,1200
+258,2017,Honda,HR-V FWD,4,Regular,Automatic,Small Wagons,34,28,1.8,1150
+259,2017,Honda,HR-V FWD,4,Regular,Automatic,Small Wagons,34,28,1.8,1150
+260,2017,Honda,HR-V FWD,4,Regular,Manual,Small Wagons,33,25,1.8,1250
+261,2017,Honda,Odyssey,6,Regular,Automatic,Minivan -2WD,27,19,3.5,1600
+262,2017,Honda,Pilot AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,19,3.5,1600
+263,2017,Honda,Pilot AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,18,3.5,1650
+264,2017,Honda,Pilot FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,27,20,3.5,1500
+265,2017,Honda,Pilot FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,27,19,3.5,1600
+266,2017,Honda,Ridgeline AWD,6,Regular,Automatic,Pickup 4WD,25,18,3.5,1650
+267,2017,Honda,Ridgeline FWD,6,Regular,Automatic,Small 2WD,26,19,3.5,1600
+268,2017,Hyundai,Accent,4,Regular,Automatic,Compact Cars,36,26,1.6,1150
+269,2017,Hyundai,Accent,4,Regular,Manual,Compact Cars,37,27,1.6,1150
+270,2017,Hyundai,Azera,6,Regular,Automatic,Large Cars,28,20,3.3,1500
+271,2017,Hyundai,Azera Limited,6,Regular,Automatic,Large Cars,28,19,3.3,1600
+272,2017,Hyundai,Elantra,4,Regular,Automatic,Midsize Cars,40,32,1.4,1000
+273,2017,Hyundai,Elantra,4,Regular,Automatic,Midsize Cars,33,26,1.6,1200
+274,2017,Hyundai,Elantra,4,Regular,Automatic,Midsize Cars,37,28,2,1100
+275,2017,Hyundai,Elantra,4,Regular,Manual,Midsize Cars,36,26,2,1200
+276,2017,Hyundai,Elantra,4,Regular,Manual,Midsize Cars,30,22,1.6,1400
+277,2017,Hyundai,Elantra GT,4,Regular,Automatic,Midsize Cars,32,24,2,1300
+278,2017,Hyundai,Elantra GT,4,Regular,Manual,Midsize Cars,32,24,2,1300
+279,2017,Hyundai,Elantra SE,4,Regular,Automatic,Midsize Cars,38,29,2,1050
+280,2017,Hyundai,Ioniq,4,Regular,Automatic,Large Cars,54,55,1.6,650
+281,2017,Hyundai,Ioniq Blue,4,Regular,Automatic,Large Cars,59,57,1.6,600
+282,2017,Hyundai,Ioniq Electric,,Electricity,Automatic,Midsize Cars,122,150,,500
+283,2017,Hyundai,Santa Fe AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,24,18,3.3,1750
+284,2017,Hyundai,Santa Fe FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,25,18,3.3,1650
+285,2017,Hyundai,Santa Fe Sport AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,19,2,1600
+286,2017,Hyundai,Santa Fe Sport AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,20,2.4,1600
+287,2017,Hyundai,Santa Fe Sport FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,28,20,2,1500
+288,2017,Hyundai,Santa Fe Sport FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,27,21,2.4,1450
+289,2017,Hyundai,Santa Fe Sport Ultimate AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,24,19,2,1650
+290,2017,Hyundai,Santa Fe Sport Ultimate FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,27,20,2,1500
+291,2017,Hyundai,Santa Fe Ultimate AWD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,22,17,3.3,1850
+292,2017,Hyundai,Santa Fe Ultimate FWD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,23,17,3.3,1750
+293,2017,Hyundai,Sonata,4,Regular,Automatic,Large Cars,36,28,1.6,1150
+294,2017,Hyundai,Sonata,4,Regular,Automatic,Large Cars,36,25,2.4,1200
+295,2017,Hyundai,Sonata,4,Regular,Automatic,Large Cars,31,22,2,1350
+296,2017,Hyundai,Sonata Hybrid,4,Regular,Automatic,Midsize Cars,43,38,2,850
+297,2017,Hyundai,Sonata Hybrid SE,4,Regular,Automatic,Midsize Cars,45,39,2,850
+298,2017,Hyundai,Sonata Limited,4,Regular,Automatic,Large Cars,30,21,2,1450
+299,2017,Hyundai,Sonata Plug-in Hybrid,4,Regular Gas and Electricity,Automatic,Midsize Cars,40,38,2,900
+300,2017,Hyundai,Sonata Sport Limited,4,Regular,Automatic,Large Cars,35,25,2.4,1250
+301,2017,Hyundai,Tucson AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,24,1.6,1400
+302,2017,Hyundai,Tucson AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,21,2,1500
+303,2017,Hyundai,Tucson Eco AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,30,25,1.6,1300
+304,2017,Hyundai,Tucson Eco FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,32,26,1.6,1250
+305,2017,Hyundai,Tucson FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,30,25,1.6,1300
+306,2017,Hyundai,Tucson FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,30,23,2,1350
+307,2017,Hyundai,Veloster,4,Regular,Automatic,Compact Cars,35,28,1.6,1150
+308,2017,Hyundai,Veloster,4,Regular,Automatic,Compact Cars,32,26,1.6,1200
+309,2017,Hyundai,Veloster,4,Regular,Manual,Compact Cars,33,25,1.6,1250
+310,2017,Hyundai,Veloster,4,Regular,Manual,Compact Cars,34,27,1.6,1150
+311,2017,Mazda,2,4,Regular,Automatic,Compact Cars,40,32,1.5,1000
+312,2017,Mazda,2,4,Regular,Manual,Compact Cars,39,30,1.5,1050
+313,2017,Mazda,6,4,Regular,Automatic,Midsize Cars,35,26,2.5,1200
+314,2017,Mazda,6,4,Regular,Automatic,Midsize Cars,35,27,2.5,1150
+315,2017,Mazda,6,4,Regular,Manual,Midsize Cars,34,24,2.5,1250
+316,2017,Mazda,3 4-Door,4,Regular,Automatic,Compact Cars,37,28,2,1100
+317,2017,Mazda,3 4-Door,4,Regular,Automatic,Compact Cars,36,27,2.5,1150
+318,2017,Mazda,3 4-Door,4,Regular,Automatic,Compact Cars,37,28,2.5,1150
+319,2017,Mazda,3 4-Door,4,Regular,Manual,Compact Cars,37,27,2,1150
+320,2017,Mazda,3 4-Door,4,Regular,Manual,Compact Cars,34,25,2.5,1200
+321,2017,Mazda,3 5-Door,4,Regular,Automatic,Midsize Cars,37,28,2,1150
+322,2017,Mazda,3 5-Door,4,Regular,Automatic,Midsize Cars,35,26,2.5,1150
+323,2017,Mazda,3 5-Door,4,Regular,Automatic,Midsize Cars,36,27,2.5,1150
+324,2017,Mazda,3 5-Door,4,Regular,Manual,Midsize Cars,37,27,2,1150
+325,2017,Mazda,3 5-Door,4,Regular,Manual,Midsize Cars,33,25,2.5,1250
+326,2017,Mazda,CX-32WD,4,Regular,Automatic,Compact Cars,34,29,2,1150
+327,2017,Mazda,CX-3 4WD,4,Regular,Automatic,Compact Cars,32,27,2,1200
+328,2017,Mazda,CX-92WD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,28,22,2.5,1450
+329,2017,Mazda,CX-9 4WD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,20,2.5,1500
+330,2017,Mazda,MX-5,4,Premium,Automatic,2 Seats,35,26,2,1450
+331,2017,Mazda,MX-5,4,Premium,Manual,2 Seats,33,26,2,1450
+332,2017,Nissan,370Z,6,Premium,Automatic,2 Seats,26,19,3.7,1900
+333,2017,Nissan,370Z,6,Premium,Manual,2 Seats,26,18,3.7,2000
+334,2017,Nissan,370Z Roadster,6,Premium,Automatic,2 Seats,25,18,3.7,2000
+335,2017,Nissan,370Z Roadster,6,Premium,Manual,2 Seats,24,17,3.7,2100
+336,2017,Nissan,Altima,6,Regular,Automatic,Midsize Cars,32,22,3.5,1350
+337,2017,Nissan,Altima,4,Regular,Automatic,Midsize Cars,39,27,2.5,1150
+338,2017,Nissan,Altima SR,4,Regular,Automatic,Midsize Cars,37,26,2.5,1150
+339,2017,Nissan,Armada2WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,19,14,5.6,2200
+340,2017,Nissan,Armada 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,18,13,5.6,2350
+341,2017,Nissan,Frontier2WD,4,Regular,Automatic,Small 2WD,22,17,2.5,1850
+342,2017,Nissan,Frontier2WD,6,Regular,Automatic,Small 2WD,23,16,4,1850
+343,2017,Nissan,Frontier2WD,4,Regular,Manual,Small 2WD,23,19,2.5,1650
+344,2017,Nissan,Frontier2WD,6,Regular,Manual,Small 2WD,22,16,4,1850
+345,2017,Nissan,Frontier2WD FFV,6,Gasoline or E85,Automatic,Small 2WD,22,16,4,1950
+346,2017,Nissan,Frontier 4WD,6,Regular,Automatic,Small 4WD,21,15,4,2050
+347,2017,Nissan,Frontier 4WD,6,Regular,Manual,Small 4WD,21,16,4,1950
+348,2017,Nissan,Frontier 4WD FFV,6,Gasoline or E85,Automatic,Small 4WD,21,15,4,2050
+349,2017,Nissan,GT-R,6,Premium,Automatic,Sub Cars,22,16,3.8,2350
+350,2017,Nissan,Juke,4,Premium,Automatic,Small Wagons,32,28,1.6,1450
+351,2017,Nissan,Juke,4,Premium,Manual,Small Wagons,33,27,1.6,1450
+352,2017,Nissan,Juke AWD,4,Premium,Automatic,Small Wagons,30,26,1.6,1500
+353,2017,Nissan,Juke Nismo RS,4,Premium,Manual,Small Wagons,31,26,1.6,1500
+354,2017,Nissan,Juke Nismo RS AWD,4,Premium,Automatic,Small Wagons,29,25,1.6,1650
+355,2017,Nissan,Leaf,,Electricity,Automatic,Midsize Cars,101,124,,600
+356,2017,Nissan,Maxima,6,Premium,Automatic,Midsize Cars,30,21,3.5,1700
+357,2017,Nissan,Murano AWD,6,Regular,Automatic,Midsize Wagons,28,21,3.5,1450
+358,2017,Nissan,Murano FWD,6,Regular,Automatic,Midsize Wagons,28,21,3.5,1450
+359,2017,Nissan,NV200 Cargo Van,4,Regular,Automatic,2WD,26,24,2,1400
+360,2017,Nissan,Pathfinder2WD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,27,20,3.5,1500
+361,2017,Nissan,Pathfinder 4WD,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,19,3.5,1600
+362,2017,Nissan,Pathfinder 4WD Platinum,6,Regular,Automatic,Small Sport Utility Vehicle 4WD,26,19,3.5,1650
+363,2017,Nissan,Quest,6,Regular,Automatic,Minivan -2WD,27,20,3.5,1600
+364,2017,Nissan,Rogue AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,32,25,2.5,1300
+365,2017,Nissan,Rogue FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,33,26,2.5,1200
+366,2017,Nissan,Rogue Hybrid  AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,34,31,2,1050
+367,2017,Nissan,Rogue Hybrid  FWD,4,Regular,Automatic,Small Sport Utility Vehicle2WD,35,33,2,1050
+368,2017,Nissan,Sentra,4,Premium,Automatic,Midsize Cars,33,27,1.6,1450
+369,2017,Nissan,Sentra,4,Regular,Automatic,Midsize Cars,37,29,1.8,1100
+370,2017,Nissan,Sentra,4,Regular,Manual,Midsize Cars,35,27,1.8,1150
+371,2017,Nissan,Sentra,4,Premium,Manual,Midsize Cars,32,26,1.6,1500
+372,2017,Nissan,Sentra Nismo,4,Premium,Automatic,Midsize Cars,30,25,1.6,1550
+373,2017,Nissan,Sentra Nismo,4,Premium,Manual,Midsize Cars,31,25,1.6,1550
+374,2017,Nissan,Titan2WD,8,Regular,Automatic,Pickup 2WD,21,15,5.6,1950
+375,2017,Nissan,Titan 4WD,8,Regular,Automatic,Pickup 4WD,21,15,5.6,1950
+376,2017,Nissan,Titan 4WD  PRO4X,8,Regular,Automatic,Pickup 4WD,20,15,5.6,2050
+377,2017,Nissan,Versa,4,Regular,Automatic,Compact Cars,39,31,1.6,1050
+378,2017,Nissan,Versa,4,Regular,Automatic,Compact Cars,35,26,1.6,1200
+379,2017,Nissan,Versa,4,Regular,Manual,Compact Cars,36,27,1.6,1150
+380,2017,Tesla,Model S AWD - 60D,,Electricity,Automatic,Large Cars,107,101,,600
+381,2017,Tesla,Model S AWD - 75D,,Electricity,Automatic,Large Cars,105,102,,650
+382,2017,Tesla,Model S AWD - P100D,,Electricity,Automatic,Large Cars,105,92,,700
+383,2017,Tesla,Model S AWD - P90D,,Electricity,Automatic,Large Cars,100,92,,700
+384,2017,Tesla,Model X AWD - 60D,,Electricity,Automatic,Standard Sport Utility Vehicle 4WD,94,91,,700
+385,2017,Tesla,Model X AWD - 75D,,Electricity,Automatic,Standard Sport Utility Vehicle 4WD,95,91,,700
+386,2017,Tesla,Model X AWD - 90D,,Electricity,Automatic,Standard Sport Utility Vehicle 4WD,94,90,,700
+387,2017,Tesla,Model X AWD - P100D,,Electricity,Automatic,Standard Sport Utility Vehicle 4WD,92,81,,750
+388,2017,Tesla,Model X AWD - P90D,,Electricity,Automatic,Standard Sport Utility Vehicle 4WD,90,89,,750
+389,2017,Toyota,86,4,Premium,Automatic,Mini Car,32,24,2,1550
+390,2017,Toyota,86,4,Premium,Manual,Mini Car,28,21,2,1750
+391,2017,Toyota,4Runner2WD,6,Regular,Automatic,Standard Sport Utility Vehicle2WD,21,17,4,1950
+392,2017,Toyota,4Runner 4WD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,20,17,4,1950
+393,2017,Toyota,4Runner 4WD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,20,17,4,1950
+394,2017,Toyota,Avalon,6,Regular,Automatic,Midsize Cars,30,21,3.5,1450
+395,2017,Toyota,Avalon Hybrid,4,Regular,Automatic,Midsize Cars,39,40,2.5,850
+396,2017,Toyota,Camry,6,Regular,Automatic,Midsize Cars,30,21,3.5,1450
+397,2017,Toyota,Camry,4,Regular,Automatic,Midsize Cars,33,24,2.5,1300
+398,2017,Toyota,Camry Hybrid LE,4,Regular,Automatic,Midsize Cars,38,42,2.5,850
+399,2017,Toyota,Camry Hybrid XLE/SE,4,Regular,Automatic,Midsize Cars,37,40,2.5,900
+400,2017,Toyota,Corolla,4,Regular,Automatic,Midsize Cars,35,28,1.8,1150
+401,2017,Toyota,Corolla,4,Regular,Automatic,Midsize Cars,36,28,1.8,1100
+402,2017,Toyota,Corolla,4,Regular,Manual,Midsize Cars,35,27,1.8,1150
+403,2017,Toyota,Corolla iM,4,Regular,Automatic,Midsize Cars,36,28,1.8,1150
+404,2017,Toyota,Corolla iM,4,Regular,Manual,Midsize Cars,35,27,1.8,1150
+405,2017,Toyota,Corolla LE Eco,4,Regular,Automatic,Midsize Cars,40,30,1.8,1050
+406,2017,Toyota,Corolla LE Eco,4,Regular,Automatic,Midsize Cars,38,29,1.8,1050
+407,2017,Toyota,Highlander,4,Regular,Automatic,Small Sport Utility Vehicle2WD,24,20,2.7,1600
+408,2017,Toyota,Highlander,6,Regular,Automatic,Small Sport Utility Vehicle2WD,27,20,3.5,1500
+409,2017,Toyota,Highlander AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,26,20,3.5,1600
+410,2017,Toyota,Highlander AWD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,26,19,3.5,1600
+411,2017,Toyota,Highlander AWD LE,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,27,20,3.5,1500
+412,2017,Toyota,Highlander Hybrid 4WD,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,27,29,3.5,1250
+413,2017,Toyota,Highlander Hybrid 4WD LE Plus,6,Regular,Automatic,Standard Sport Utility Vehicle 4WD,28,30,3.5,1200
+414,2017,Toyota,Highlander LE/XLE/SE/LTD,6,Regular,Automatic,Small Sport Utility Vehicle2WD,27,21,3.5,1500
+415,2017,Toyota,Land Cruiser Wagon 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,18,13,5.7,2350
+416,2017,Toyota,Prius,4,Regular,Automatic,Midsize Cars,50,54,1.8,650
+417,2017,Toyota,Prius c,4,Regular,Automatic,Compact Cars,43,48,1.5,750
+418,2017,Toyota,Prius Eco,4,Regular,Automatic,Midsize Cars,53,58,1.8,600
+419,2017,Toyota,Prius Prime,4,Regular Gas and Electricity,Automatic,Midsize Cars,53,55,1.8,650
+420,2017,Toyota,Prius v,4,Regular,Automatic,Midsize Wagons,39,43,1.8,850
+421,2017,Toyota,RAV4,4,Regular,Automatic,Small Sport Utility Vehicle2WD,29,23,2.5,1400
+422,2017,Toyota,RAV4 AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,22,2.5,1400
+423,2017,Toyota,RAV4 Hybrid AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,30,34,2.5,1100
+424,2017,Toyota,RAV4 LE/XLE,4,Regular,Automatic,Small Sport Utility Vehicle2WD,30,23,2.5,1350
+425,2017,Toyota,RAV4 Limited AWD/SE AWD,4,Regular,Automatic,Small Sport Utility Vehicle 4WD,28,22,2.5,1450
+426,2017,Toyota,Sequoia2WD,8,Regular,Automatic,Standard Sport Utility Vehicle2WD,17,13,5.7,2350
+427,2017,Toyota,Sequoia 4WD,8,Regular,Automatic,Standard Sport Utility Vehicle 4WD,17,13,5.7,2500
+428,2017,Toyota,Sequoia 4WD FFV,8,Gasoline or E85,Automatic,Standard Sport Utility Vehicle 4WD,17,13,5.7,2500
+429,2017,Toyota,Sienna2WD,6,Regular,Automatic,Minivan -2WD,27,19,3.5,1600
+430,2017,Toyota,Sienna AWD,6,Regular,Automatic,Minivan - 4WD,24,18,3.5,1750
+431,2017,Toyota,Tacoma2WD,6,Regular,Automatic,Small 2WD,24,19,3.5,1650
+432,2017,Toyota,Tacoma2WD,4,Regular,Automatic,Small 2WD,23,19,2.7,1650
+433,2017,Toyota,Tacoma 4WD,6,Regular,Automatic,Small 4WD,23,18,3.5,1750
+434,2017,Toyota,Tacoma 4WD,4,Regular,Automatic,Small 4WD,22,19,2.7,1750
+435,2017,Toyota,Tacoma 4WD,4,Regular,Manual,Small 4WD,21,19,2.7,1750
+436,2017,Toyota,Tacoma 4WD,6,Regular,Manual,Small 4WD,21,17,3.5,1950
+437,2017,Toyota,Tacoma 4WD Double Cab,6,Regular,Manual,Small 4WD,20,17,3.5,1950
+438,2017,Toyota,Tundra2WD,8,Regular,Automatic,Pickup 2WD,19,15,4.6,2200
+439,2017,Toyota,Tundra2WD,8,Regular,Automatic,Pickup 2WD,18,13,5.7,2350
+440,2017,Toyota,Tundra2WD FFV,8,Gasoline or E85,Automatic,Pickup 2WD,18,13,5.7,2350
+441,2017,Toyota,Tundra 4WD,8,Regular,Automatic,Pickup 4WD,18,14,4.6,2200
+442,2017,Toyota,Tundra 4WD,8,Regular,Automatic,Pickup 4WD,17,13,5.7,2350
+443,2017,Toyota,Tundra 4WD FFV,8,Gasoline or E85,Automatic,Pickup 4WD,17,13,5.7,2350
+444,2017,Toyota,Yaris,4,Regular,Automatic,Compact Cars,35,30,1.5,1100
+445,2017,Toyota,Yaris,4,Regular,Manual,Compact Cars,36,30,1.5,1050
+446,2017,Toyota,Yaris iA,4,Regular,Automatic,Sub Cars,40,32,1.5,1000
+447,2017,Toyota,Yaris iA,4,Regular,Manual,Sub Cars,39,30,1.5,1050

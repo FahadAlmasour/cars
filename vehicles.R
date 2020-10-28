@@ -12,11 +12,12 @@ library(tidyverse)
 library(rio)
 library(scales)
 library(GGally)
-
+library(bayesplot)
+library(rstanarm)
 
 # load the data
-<<<<<<< HEAD
-cars <- read_csv("carfule.csv")
+
+cars <- read_csv("car_fual.csv")
 
 # explore
 
@@ -25,36 +26,32 @@ summary(cars$on_highway)
 
 # SPLOM (Scatter plot matrix) but with proper data types:
 cars %>%
-=======
-vehicles <- read_csv("vehicles.csv")
+
+    cars <- read_csv("car_fual.csv")
 
 # explore
-glimpse(vehicles)
-summary(vehicles$fuel_h)
+glimpse(cars)
+summary(cars$fuel_h)
 
 # SPLOM (Scatter plot matrix) but with proper data types:
-vehicles %>%
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+cars %>%
   select(-num, -model, -manufacturer) %>%
   ggpairs()
 
 ggplot()
 
 # Analysis on city v
-<<<<<<< HEAD
 summary(cars$on_city)
 #qplot(on_city, data=cars, geom="histogram", bins=30)
-=======
-summary(vehicles$fuel_c)
-#qplot(fuel_c, data=vehicles, geom="histogram", bins=30)
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+summary(cars$fuel_c)
+#qplot(fuel_c, data=cars, geom="histogram", bins=30)
 ggplot()
 
 
 ggplot()
 
 
-<<<<<<< HEAD
+
 table(cars$cylinders)
 qplot(cylinders,
       data = cars,
@@ -86,37 +83,35 @@ ggplot(cars, aes(engine, on_highway, color = size)) +
 
 # By plot:
 ggplot(cars, aes(engine, on_highway)) +
-=======
-table(vehicles$cylinders)
-qplot(cylinders, data=vehicles, geom="bar", fill=factor(cylinders))
+
+  table(cars$cylinders)
+qplot(cylinders, data=cars, geom="bar", fill=factor(cylinders))
 ggplot()
 
 # Analysis on Fuel types
-qplot(fl, data=vehicles, geom="bar", fill=fl)
+qplot(fl, data=cars, geom="bar", fill=fl)
 ggplot()
 
 # Analysis Vehicle kind
-table(vehicles$size)
-#qplot(size, data=vehicles, geom="bar", fill=size)
+table(cars$size)
+#qplot(size, data=cars, geom="bar", fill=size)
 ggplot()
 
 # engine in highway
-ggplot(vehicles, aes(engine, fuel_h)) +
+ggplot(cars, aes(engine, fuel_h)) +
   geom_point(color = "#cb181d", alpha = 0.4, shape = 16)
 
 # by size
-ggplot(vehicles, aes(engine, fuel_h, color = size)) +
+ggplot(cars, aes(engine, fuel_h, color = size)) +
   geom_point()
 
 # By plot:
-ggplot(vehicles, aes(engine, fuel_h)) +
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+ggplot(cars, aes(engine, fuel_h)) +
   geom_point() +
   facet_wrap(~ size, nrow = 2)
 
 
 
-<<<<<<< HEAD
 # Type of size
 ggplot(data = cars) +
   geom_smooth(mapping = aes(
@@ -139,34 +134,32 @@ plot(
 ggplot(cars, aes(engine, on_highway)) +
 =======
 # Type of drive
-ggplot(data = vehicles) +
+ggplot(data = cars) +
   geom_smooth(mapping = aes(x = engine, y = fuel_h, linetype = , color=drive))
 
 #Analysis of kg/l compared to engine
-plot(fuel_h ~ engine, data = vehicles, col = "blue", pch = 20, cex = 1.5)
+plot(fuel_h ~ engine, data = cars, col = "blue", pch = 20, cex = 1.5)
 
 #  engine in highway km
-ggplot(vehicles, aes(engine, fuel_h)) +
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+ggplot(cars, aes(engine, fuel_h)) +
   geom_point(alpha = 0.3) +
   geom_smooth()
 
 
 # Number of cylinders
-<<<<<<< HEAD
 ggplot(data = cars) +
   geom_point(mapping = aes(x = engine, y = on_highway, color = size)) +
   facet_grid(size ~ cylinders)
-=======
-ggplot(data = vehicles) +
+
+ggplot(data = cars) +
   geom_point(mapping = aes(x = engine, y = fuel_h, color=drive)) +
   facet_grid(drive ~ cylinders)
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+
 
 
 
 #kg/l in highway
-<<<<<<< HEAD
+
 hist(cars$on_highway, main = "Driving on highways",
      xlab = ", kg/l")
 
@@ -183,26 +176,32 @@ cars = lm(on_city ~ cylinders , data = cars)
 coef(cars)
 
 #summary
-summary(automatic.on_city)
-summary(manual.on_city)
+summary(automatic$on_city)
+summary(manual$on_city)
 
-=======
-hist(vehicles$fuel_h, main = "Driving on highways",
+
+hist(cars$fuel_h, main = "Driving on highways",
      xlab = ", kg/l")
 
 #kg/l in city
-hist(vehicles$fuel_c, main = "Driving on City",
+hist(cars$fuel_c, main = "Driving on City",
      xlab = "kilograms per liters, kg/l")
 
 #Highway kg/l data
-vehicles = lm(fuel_h ~ cylinders + year, data = vehicles)
-coef(vehicles)
+cars = lm(fuel_h ~ cylinders + year, data = cars)CPCOLS <- c("#1f78b4", "#33a02c", "#e31a1c")
+
+library(ggplot2)
+
+ggplot(iris, aes(Sepal.Length, Petal.Length)) +
+      geom_point(aes(col = Species)) +
+      scale_colour_manual(values = CPCOLS)
+coef(cars)
 
 #City kg/l data
-vehicles = lm(fuel_c ~ cylinders + year, data = vehicles)
-coef(vehicles)
+cars = lm(fuel_c ~ cylinders + year, data = cars)
+coef(cars)
 
 #summary
 summary(automatic.fuel_c)
 summary(manual.fuel_c)
->>>>>>> 9b5638b9e11964791f143d23e855682fb525806f
+
